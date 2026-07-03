@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Danish — a Full-Stack Web Developer<br>• Core: C++, JavaScript, Python<br>• Frontend: React.js, HTML5, CSS3, Tailwind CSS<br>• Backend: Node.js, Express.js<br>• Database: MongoDB<br>• Tools: Git, GitHub, Postman<br>• Deployment: Vercel, Render
+I'm Danish — a Full-Stack Web Developer<br>• Core: C++, JavaScript, Python<br>• Frontend: React.js, HTML5, CSS3, Tailwind CSS<br>• Backend: Node.js, Express.js<br>• Database: MongoDB<br>• Tools: Git, GitHub, Postman<br>• Deployment: Vercel, Render, Netlify
 
 
 ## 🌐 Socials:
